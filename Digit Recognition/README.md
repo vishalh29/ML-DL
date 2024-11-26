@@ -14,7 +14,6 @@ Each model is evaluated on the MNIST dataset, a large database of handwritten di
 
 ## Requirements
 
-- Python 
 - TensorFlow 
 - Matplotlib
 - NumPy
